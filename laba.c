@@ -1,9 +1,7 @@
 #include<stdio.h>
- 
-int main (void)
+
+int main ()
 {
     printf("Hello World");
-    getchar();
-    printf("12");
     return 0;
 }
